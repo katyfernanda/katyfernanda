@@ -12,6 +12,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=katyfernanda&show_icons=true&title_color=cf99d6&locale=en&layout=compact" alt="katyfernanda" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=katyfernanda&show_icons=true&locale=en" alt="katyfernanda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=katyfernanda&show_icons=true&title_color=cf99e0&hide_border=true&locale=en" alt="katyfernanda" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=katyfernanda&" alt="katyfernanda" /></p>
